@@ -22,6 +22,7 @@ To use this program, follow these steps:
 2. **Create an Input File**: Prepare an input file containing a list of instructions for task scheduling.
 3. **Run the Program**: Execute the compiled program with the input file as an argument.
 4. **View Output**: The program will display the scheduling actions and the status of tasks at each clock tick.
+5. **Round Robin Principle**:  in a scheduling algorithm that distributes work evenly among all available resources.
 
 ## Implementation Details
 - The program simulates task scheduling based on the instructions in the input file.
