@@ -1,4 +1,4 @@
-# Multi-Level Feedback Queue (MLFQ) with Round Robin Scheduling
+# Responsive Queues
 
 ## Overview
 The `mlfq.c` file is an implementation of a Multi-Level Feedback Queue (MLFQ) scheduling algorithm with round-robin scheduling. This program reads a set of instructions from an input file and simulates the scheduling of tasks among multiple queues with varying priorities.
